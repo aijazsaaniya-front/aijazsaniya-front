@@ -10,7 +10,7 @@ welcome to my little corner of the internet.
 <p align="center">
 <a href="https://www.linkedin.com/in/saniya-aijaz-358810345">linkedin</a> ﹒
 <a href="https://www.instagram.com/theacademizone">instagram</a> ﹒
-<a href="mailto:your-email@example.com">email</a>
+<a href="mailto:aijazsaaniya@gmail.com">email</a>
 </p>
 <br>
 <br>
@@ -26,7 +26,7 @@ Node.js ﹒ Express ﹒ MongoDB ﹒ MySQL ﹒ PostgreSQL
 <br><br>
 tools & platforms
 <br>
-Git ﹒ GitHub ﹒ VS Code ﹒ Figma ﹒ Docker ﹒ AWS ﹒ Jest
+Git ﹒ GitHub ﹒ VS Code ﹒ Docker ﹒ Jest
 </div>
 <br>
 <br>
