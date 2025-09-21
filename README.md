@@ -22,7 +22,7 @@ JavaScript ﹒ TypeScript ﹒ React ﹒ Next.js ﹒ HTML ﹒ CSS ﹒ Tailwind CS
 <br><br>
 backend & database
 <br>
-Node.js ﹒ Express ﹒ MongoDB ﹒ MySQL ﹒ PostgreSQL
+Node.js ﹒ Express ﹒ MongoDB ﹒ MySQL ﹒ PostgreSQL ﹒Python ﹒Django  
 <br><br>
 tools & platforms
 <br>
