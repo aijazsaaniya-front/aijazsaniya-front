@@ -1,4 +1,4 @@
-# aijazsaniya-front
+# aijazsaaniya-front
 <p align="center">
 hello, i'm saniya ✦
 </p>
